@@ -58,4 +58,6 @@ int main(int argc, char *argv[])
     Receiver receiver;
     receiver.show();
     return app.exec();
+    //test!
+
 }
